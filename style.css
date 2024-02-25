@@ -10,6 +10,9 @@ body {
     margin-right: 65%;
     font-size: 50px;
 }
+.video{
+    margin-left: 30%;
+}
 
 .holder {
     margin-left: 20%; /* Applied left margin of 20% */
@@ -28,4 +31,7 @@ pre {
 .photo{
 
     margin-left: 20%;
+}
+.audio{
+    margin-left: 30%;
 }
