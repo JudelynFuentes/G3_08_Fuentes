@@ -1,0 +1,27 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgb(190, 0, 83) 0%, rgb(59, 132, 216) 100%);
+    color: aliceblue;
+}
+.b{
+    margin-right: 65%;
+    font-size: 50px;
+}
+
+.holder {
+    margin-left: 20%; /* Applied left margin of 20% */
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+pre {
+    margin-left: 10%;
+    white-space: pre-wrap;
+    font-size: 16px;
+    line-height: 1.6;
+}
